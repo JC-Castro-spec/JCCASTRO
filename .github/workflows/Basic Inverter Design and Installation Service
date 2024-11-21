@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Basic Inverter Design and Installation Service. Reliable and professional inverter installation for your home or business.">
+    <meta name="author" content="Your Name">
+    <title>Basic Inverter Design & Installation Service</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file if needed -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        .service-description {
+            margin: 20px 0;
+        }
+        .contact-info {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 10px 0;
+        }
+        .contact-info a {
+            color: #00aaff;
+            text-decoration: none;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Basic Inverter Design & Installation Service</h1>
+        <p>Reliable and Professional Inverter Solutions for Homes and Businesses</p>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>Our Services</h2>
+            <div class="service-description">
+                <p>We offer professional inverter design and installation services tailored to your energy needs. Whether you are looking to install a small inverter for home use or a more complex system for your business, we provide the expertise and support to ensure your system is reliable and efficient.</p>
+                <ul>
+                    <li>Inverter Design & Sizing</li>
+                    <li>System Installation</li>
+                    <li>Battery and Solar Integration</li>
+                    <li>Maintenance and Troubleshooting</li>
+                    <li>Customized Solutions</li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            <h2>Why Choose Us?</h2>
+            <p>We are committed to providing quality service with a focus on customer satisfaction. Our team is highly trained and experienced in inverter systems, ensuring a seamless installation process and long-term system performance.</p>
+        </section>
+    </div>
+
+    <div class="contact-info">
+        <h2>Contact Us</h2>
+        <p>For inquiries or to schedule a consultation, please reach out to us:</p>
+        <p><strong>Phone:</strong> <a href="tel:+639614780774">0961-478-0774</a></p>
+        <p><strong>Email:</strong> <a href="mailto:castrojc182003@gmail.com">castrojc182003@gmail.com</a></p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Basic Inverter Design & Installation Service. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+
